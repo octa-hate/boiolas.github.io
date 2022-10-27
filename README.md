@@ -122,14 +122,14 @@
     </nav>
     <br>
     <img class="foto"
-                src="https://i.ibb.co/yB89z00/nois.png"
+                src="https://i.ibb.co/jkmZKvc/nois.png"
                 alt="nois">
                 <img class="foto"
-                src="https://i.ibb.co/mS1J1hY/gaaaaaaaaaaaaay.png"
+                src="https://i.ibb.co/dKYRGHX/gaaaaaaaaaaaaay.png"
                 alt="gay"
                 align="center">
                 <img class="foto2"
-                src="https://i.ibb.co/z6LwNxJ/nois2.png"
+                src="https://i.ibb.co/xLZz4t0/nois2.png"
                 alt="nois2">
     <section class="text-center">
         <div class="container corPrimaria">
